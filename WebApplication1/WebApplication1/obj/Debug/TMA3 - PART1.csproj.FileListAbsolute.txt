@@ -1,0 +1,9 @@
+C:\Users\John's Laptop\source\repos\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\John's Laptop\source\repos\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\John's Laptop\source\repos\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\John's Laptop\source\repos\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\John's Laptop\source\repos\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\John's Laptop\source\repos\WebApplication1\WebApplication1\obj\Debug\TMA3 - PART1.csprojResolveAssemblyReference.cache
+C:\Users\John's Laptop\source\repos\WebApplication1\WebApplication1\obj\Debug\TMA3 - PART1.csproj.CoreCompileInputs.cache
+C:\Users\John's Laptop\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\John's Laptop\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
