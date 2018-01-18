@@ -1,0 +1,11 @@
+C:\Projects\Athabasca\Assignment3\TMA3\WebApplication1\bin\WebApplication1.dll.config
+C:\Projects\Athabasca\Assignment3\TMA3\WebApplication1\bin\WebApplication1.dll
+C:\Projects\Athabasca\Assignment3\TMA3\WebApplication1\bin\WebApplication1.pdb
+C:\Projects\Athabasca\Assignment3\TMA3\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\Athabasca\Assignment3\TMA3\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\Athabasca\Assignment3\TMA3\WebApplication1\obj\Debug\TMA3MainPart1.csproj.CoreCompileInputs.cache
+C:\Projects\Athabasca\Assignment3\TMA3\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Projects\Athabasca\Assignment3\TMA3\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Projects\Athabasca\Assignment3\TMA3\WebApplication1\bin\MySql.Data.dll
+C:\Projects\Athabasca\Assignment3\TMA3\WebApplication1\bin\MySql.Data.xml
+C:\Projects\Athabasca\Assignment3\TMA3\WebApplication1\obj\Debug\TMA3MainPart1.csprojResolveAssemblyReference.cache
