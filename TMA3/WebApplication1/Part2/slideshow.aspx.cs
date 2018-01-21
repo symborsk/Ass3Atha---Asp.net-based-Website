@@ -66,10 +66,9 @@ namespace WebApplication1
         private DataTable GetPicturesFromDatabase()
         {
             DataTable tab = new DataTable();
-            MySqlConnection con;
             try
             {
-                con = new MySqlConnection("Data Source=localhost;Initial Catalog=sys; User Id=root;password=symbor97;");
+                MySqlConnection con = new MySqlConnection("Data Source=localhost;Initial Catalog=sys; User Id=root;password=symbor97;");
                 MySqlCommand cmd = new MySqlCommand("Select * from slideshow", con);
                 MySqlDataAdapter sda = new MySqlDataAdapter();
 

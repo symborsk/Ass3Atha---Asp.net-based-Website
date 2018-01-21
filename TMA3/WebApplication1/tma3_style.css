@@ -60,11 +60,26 @@ body {
     background-color: #F4F4F4;
 }
 
-.icon-bar4, .icon-bar5 {
+.icon-bar3, .icon-bar4, .icon-bar5 {
     width: 100%;
     height: 35px;
     background-color: #373737;
     overflow: hidden;
+}
+
+.icon-bar3 a:hover {
+    float: left;
+    text-align: center;
+    width: 33%;
+    height: 35px;
+    padding: 1px 0px;
+    transition: all 0.3s ease;
+    color: #F4F4F4;
+    font-size: 14px;
+    text-decoration: none;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 35px;
 }
 
 .icon-bar4 a {
@@ -97,9 +112,9 @@ body {
     line-height: 35px;
 }
 
-.icon-bar4 a:hover, .icon-bar5 a:hover, .dropdown:hover .dropbtn {
-    background-color: #C0B283;
-}
+ .icon-bar3 a:hover, .icon-bar4 a:hover, .icon-bar5 a:hover, .dropdown:hover .dropbtn {
+        background-color: #C0B283;
+ }
 
 .dropdown .dropbtn {
     font-size: 14px;
@@ -211,8 +226,11 @@ body {
 }
 
 .SearchBar {
+    width: 100%;
+    height:45px;
     border: 1px double #DCD0C0;
     margin-bottom: 5px;
+    padding: 2px;
 }
 
 .ComputerComponent, .Computer {
@@ -237,6 +255,110 @@ body {
 .HeaderRight {
     float: right;
     text-align:center;
+}
+
+.modalAddComputer {
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0,0.4);
+    padding-top: 60px;
+}
+
+.modalForm {
+    background-color: #fefefe;
+    margin: 5px auto;
+    border: 1px solid #888;
+    width: 60%;
+    text-align: center;
+}
+
+.modalForm h1, .modalForm h2, .modalForm h3 {
+    text-align: center;
+}
+
+input[type=text], input[type=url], input[type=password], input[type=file]{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+.dropDownItemLabel {
+    margin: 5px;
+    padding: 5px;
+    border: none;
+    width:100%;
+    text-align: center;
+}
+
+.addComputerButton {
+    background-color: #DCD0C0;
+    color: #373737;
+    border: solid #373737;
+    height: 50px;
+    width: 200px;
+    margin: 5px;
+}
+
+.modalButtons {
+    background-color: #DCD0C0;
+    color: #373737;
+    border: solid #373737;
+    height: 30px;
+    width: 180px;
+    margin: 5px;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+.ModalLabel {
+    margin-right: 10px;
+}
+
+.CartContent {
+    display: inline-block;
+    width: 50%;
+    border: 1px double #373737;
+    text-align: center;
+    margin: 5px;
+    padding: 3px;
+}
+
+.CartContent b, .CartContent p, .CartContent b, .CartContent p {
+    font-size: 12px;
+    overflow: auto;
+    text-align: center;
+}
+
+.HistoricalItem {
+    display: inline-block;
+    width: 20%;
+    height: 500px;
+    border: 1px double #373737;
+    text-align: center;
+    margin: 5px;
+    padding: 3px;
+    vertical-align: top;
+}
+
+.OrderList {
+    text-align: center;
+    border: 4px double #C0B283;
+    padding: 5px;
+    margin-right: auto;
+    margin-left: auto;
+    margin: 30px;
 }
 
 
